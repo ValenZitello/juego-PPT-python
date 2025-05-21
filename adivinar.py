@@ -1,4 +1,4 @@
-from operator import truediv
+
 import random 
 
 numero_secreto = random.randint(1,101)
